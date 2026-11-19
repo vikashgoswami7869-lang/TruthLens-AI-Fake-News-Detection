@@ -1,6 +1,8 @@
+
 # AI-Based Fake News Detection System
 # SAGE University Bhopal | Minor Project Evaluation - III
 # CS20B704 | VII Semester
 
 flask>=3.0.0
 numpy>=1.24.0
+fpdf2>=2.8.0
